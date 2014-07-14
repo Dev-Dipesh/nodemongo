@@ -15,5 +15,8 @@
     "jade": "~1.3.0",
     "mongodb": "*",
     "monk": "*"
+  },
+  "engines": {
+    "node": "0.10.x"
   }
 }
